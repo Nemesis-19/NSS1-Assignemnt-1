@@ -1,1 +1,1 @@
-# NSS1-Assignemnt-1
+# Assignment of Network and Systems Security 1 course
